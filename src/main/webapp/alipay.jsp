@@ -7,12 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>支付-幸得有你 山河无恙</title>
-    <link rel="stylesheet" href="http://api.vipblogs.cn:8080//css/alipay.css">
-    <link rel="stylesheet" href="http://api.vipblogs.cn:8080//css/head.css">
+    <link rel="stylesheet" href="./css/alipay.css">
+    <link rel="stylesheet" href="./css/head.css">
 </head>
 <body>
     <header>
         <h1>支付宝付款</h1>
+        <%--下面这些http://yq.vipblogs.cn/index2.html修改为你自己的前端页面地址--%>
         <ul>
             <li>
                 <span class="top_border head_donate"><a href="http://yq.vipblogs.cn/index2.html">首页</a></span>
@@ -41,7 +42,7 @@
         </div>
     </section>
 </div>
-<script src="http://api.vipblogs.cn:8080/js/jquery-3.5.1.min.js"></script>
-<script src="http://api.vipblogs.cn:8080/js/alipay.js"></script>
+<script src="./js/jquery-3.5.1.min.js"></script>
+<script src="./js/alipay.js"></script>
 </body>
 </html>
