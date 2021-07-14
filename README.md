@@ -17,31 +17,32 @@
 # 效果展示
 ## 首页
 首页的设计，主要集图表为主，图表能够更直观的反应用户捐款数据，国内疫情变化情况
-![img_1.png](./img/1.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/1.png)
+
 
 ## 抗疫英雄留言，点赞
-![img_1.png](./img/人物英雄故事.jpg)
-![img_1.png](./img/山河无恙%20幸得有你%20最美逆行者%20评论.png)
-![img_1.png](./img/山河无恙%20幸得有你%20最美逆行者.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/人物英雄故事.jpg)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/山河无恙-幸得有你-最美逆行者-评论.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/山河无恙-幸得有你-最美逆行者.png)
 
 ## 疫情实时播报，留言
-![img_1.png](./img/留言-幸得有你%20山河无恙1.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/留言-幸得有你-山河无恙1.png)
 
 ## 捐款字段
-![img_1.png](./img/捐款字段.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/捐款字段.png)
 
 ## 用户个人捐款页面
-![img_1.png](./img/个人展示修改.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/个人展示修改.png)
 
 ## 后台首页
-![img_1.png](./img/后台.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/后台.png)
 
 ## 修改抗疫英雄人物信息
-![img_1.png](./img/英雄.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/英雄.png)
 
 ## 用户订单页面
-![img_1.png](./img/订单.png)
+![](https://vipblogs.cn/wp-content/uploads/2021/07/订单.png)
 
 # 接口
 
-接口文档，请查看`接口.md`文件
+接口文档，请查看`接口.md`文件 <a href="https://github.com/qsyyke/javaweb-donation-system/blob/master/%E6%8E%A5%E5%8F%A3.md">点击查看</a>
