@@ -1,0 +1,46 @@
+header {
+  height: 1.25rem;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  background-size: 100% 100%;
+  margin: 0px auto;
+  position: relative;
+}
+header h1 {
+  text-align: center;
+  position: relative;
+  color: #fff;
+  font-size: 0.475rem;
+  line-height: 1rem;
+}
+header ul {
+  width: 40%;
+  height: 50px;
+  position: absolute;
+  right: 0%;
+  top: 15px;
+}
+header ul li {
+  float: left;
+  margin-left: 35px;
+  position: relative;
+  top: 0px;
+  right: -10%;
+}
+header ul li .head_donate {
+  position: relative;
+  display: inline-block;
+  right: 0px;
+  top: 0px;
+}
+header ul li span {
+  width: 70px;
+  height: 26px;
+  line-height: 26px;
+  text-align: center;
+  border: none;
+  font-size: 17px;
+}
+header ul li span a {
+  color: #1b9af7;
+}
